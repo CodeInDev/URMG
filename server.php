@@ -17,7 +17,7 @@
 					header('location: ../');
 				}
 			} else {
-				echo "no";
+				echo "Username and password must be at least 4 characters";
 			}
         } else {
             echo "no";
