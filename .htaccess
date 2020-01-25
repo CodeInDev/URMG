@@ -1,1 +1,5 @@
+
+# HTID:12360345: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:12360345:
 DirectoryIndex index.php register.php home.php
